@@ -56,7 +56,7 @@ To get started, clone the repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/SQA-10-Steps-Guide-Your-Path-to-Quality-Software.git
+git clone https://github.com/siammahfuz/-SQA-10-Steps-Guide-Your-Path-to-Quality-Software
 cd SQA-10-Steps-Guide-Your-Path-to-Quality-Software
 Explore the Steps:
 Each folder within the repository represents a specific step in the guide. For example, in the step_1_requirement_analysis/ folder, you’ll find information about gathering and analyzing requirements to build a solid foundation for your testing efforts.
